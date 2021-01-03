@@ -46,3 +46,16 @@
   margin-bottom: 10px;
   display: block;
 }
+.user-component__phonenum {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+.user-component__phonenum i{
+  margin-left: 5px;
+  color: red;
+  opacity: 0.5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
